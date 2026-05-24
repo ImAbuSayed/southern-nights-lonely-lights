@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the whiskey warmth in the way you breathe
+> Tangled in the dark where we’re meant to be
+> Ain't nobody else on this midnight drive
+> Just the engine humming and your eyes alive
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
