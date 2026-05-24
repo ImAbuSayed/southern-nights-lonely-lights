@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/southern-nights-lonely-lights/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Southern Nights, Lonely Lights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/southern-nights-lonely-lights/) |
+| **Get License** | [Get License For Southern Nights, Lonely Lights](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/southern-nights-lonely-lights/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fce45076860f912c9fc0f7115873b74a3a941dfb36bd4c34b9270e9831b3c0e9` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
